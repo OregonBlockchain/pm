@@ -1,4 +1,3 @@
-# All Core Devs Meeting #
 ### Meeting Date/Time: Saturday 2018/04/21 at 19 PDT
 ### Meeting Duration 2 hours
 ### [Audio/Video of the meeting]()
