@@ -21,4 +21,5 @@
 * Sebastian
 
 ## Next meeting objectives
-* 
+# Date: 2018-5-3
+
